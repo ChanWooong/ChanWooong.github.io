@@ -3,7 +3,7 @@ layout: post
 title: 첫 블로그 포스트를 쓰며..
 subtitle: 작지만 큰 기록의 시작점에서
 cover-img: /assets/img/universe.jpg
-thumbnail-img: /assets/img/ridingBike.jpg
+thumbnail-img: /assets/img/ridingBike.webp
 share-img: /assets/img/universe.jpg
 tags: [life]
 comments: true
