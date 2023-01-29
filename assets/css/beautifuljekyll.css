@@ -190,6 +190,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
+  font-family: 'Black Han Sans', sans-serif;
   font-weight: 800;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
@@ -673,6 +674,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 6.25rem 0;
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
+  font-family: 'Black Han Sans', sans-serif;
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
